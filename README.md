@@ -1,2 +1,2 @@
 # E-Commerce
-### E-Commerce Demo Website Using BAsic HTML and CSS
+### E-Commerce Demo Website Using Basic HTML and CSS
